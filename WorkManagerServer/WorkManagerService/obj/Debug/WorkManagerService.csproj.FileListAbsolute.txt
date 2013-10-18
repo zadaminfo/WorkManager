@@ -1,0 +1,6 @@
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\bin\Debug\WorkManagerService.dll.config
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\bin\Debug\WorkManagerService.dll
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\bin\Debug\WorkManagerService.pdb
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\obj\Debug\WorkManagerService.dll
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\obj\Debug\WorkManagerService.pdb
+C:\Users\Adam\Downloads\9.felev\SzoftArch\WorkManager\WorkManagerServer\WorkManagerService\obj\Debug\WorkManagerService.csprojResolveAssemblyReference.cache
